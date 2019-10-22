@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P6saulmarquezlara</string>
+    <string name="imagen">imagen</string>
+    <string name="bpulsa">Pulsa aqui</string>
+    <string name="estamos">Estamos en un celular</string>
+    <string name="tablet">Estamos en una tablet</string>
+</resources>
